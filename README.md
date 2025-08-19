@@ -1,7 +1,14 @@
 # 💫 About Me:
-🎓 I'm a passionate and curious **MSc. Physics graduate** with a keen interest in **Data Analysis/ Science, Machine Learning, and Responsible AI**.  
-💡 With hands-on experience in **data analysis, ML modeling, and physics-driven research**, I enjoy turning complex data into meaningful insights and building smart, impactful solutions.  
-🚀 Always eager to learn, explore, and contribute to projects that make a difference.  
+
+- 🎓 MSc. Physics graduate from **Netaji Subhas University of Technology (NSUT), Delhi**.  
+- 📍 Based in **Delhi, India**, open to opportunities globally.  
+- 💡 Currently exploring **Data Science, Machine Learning, and Responsible AI**.  
+- 🛠️ Hands-on experience in **data analysis, ML modeling, and sensor-driven research projects**.  
+- 📊 Skilled in Python, SQL, and visualization tools for turning raw data into **meaningful insights**.  
+- 🚀 Building portfolio projects (SQL + Power BI, ML-based classification, sensor analytics).  
+- 🌱 Actively preparing for **data analyst and semiconductor industry roles**.  
+- 🤝 Open to **collaborations, internships, and full-time opportunities** in data-driven problem-solving.  
+- ✨ Strong interest in applying **physics and AI** to solve real-world challenges sustainably.  
 
 ---
 
